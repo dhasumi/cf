@@ -1,7 +1,7 @@
 /*
 The code in this project is a rewrite version of the changefinder package written
 in Python with golang. The URL of the original code is
-https://pypi.org/project/changefinder/, and it is published under MIT Lisence below.
+https://pypi.org/project/changefinder/, and it is published under MIT Licence below.
 
 The MIT License (MIT)
 
